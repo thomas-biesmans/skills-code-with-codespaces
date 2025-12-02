@@ -1,0 +1,4 @@
+{
+  "name": "Universal - Latest container",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest"
+}
